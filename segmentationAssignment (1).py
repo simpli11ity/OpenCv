@@ -1,7 +1,5 @@
 """
-Segmentation ASsignment
-C16778095
-
+Segmentation
 
 Performance ->  Program works for an array of different images depends on the size of the radius in the program itself, 
                 configured for the test images. radius 13-50.  For the 3 test images the code works equally well,
